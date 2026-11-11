@@ -1,0 +1,6 @@
+{
+  "name": "MG AI",
+  "description": "Intelligence That Understands - Native Android AI Assistant with Gemini, voice, multimodal intelligence, and futuristic Neon Pink & Black aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
